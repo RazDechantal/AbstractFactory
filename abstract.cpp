@@ -1,3 +1,10 @@
+/*
+Usage examples: The Abstract Factory pattern is pretty common in C++ code. Many frameworks and libraries use it to provide a way to extend
+and customize their standard components.
+Identification: The pattern is easy to recognize by methods, which return a factory object. Then, the factory is used for creating specific
+sub-components.
+*/
+
 #include <iostream>
 
 /**
